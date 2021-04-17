@@ -4,3 +4,4 @@ var question = true
 var what
 var nothing = null
 console.log(typeof(name),typeof(question),typeof(what),typeof(nothing))
+confirm.log(`Tudo bem mano?`)
